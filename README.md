@@ -1,2 +1,2 @@
-# MA615Fall
-The MA615 Homework folder for 2021 Fall
+# MA615HW1
+The MA615 Homework1 folder
